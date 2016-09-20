@@ -2,7 +2,7 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
-    color: green;
+    background-color: green;
 }
 
 /* Wrapping element */
@@ -10,7 +10,14 @@ body {
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
+    
 }
+.bg {
+    color:darkgoldenrod;
+    background-image: url('../Images/Background.png');
+    background-repeat: repeat-y;
+}
+
 
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 

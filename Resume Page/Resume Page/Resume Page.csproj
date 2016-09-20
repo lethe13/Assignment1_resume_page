@@ -182,6 +182,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Background.png" />
+    <Content Include="PreviousGames.aspx" />
     <Content Include="About.aspx" />
     <Content Include="Account\AddPhoneNumber.aspx" />
     <Content Include="Account\Confirm.aspx" />
@@ -262,6 +264,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PreviousGames.aspx.cs">
+      <DependentUpon>PreviousGames.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreviousGames.aspx.designer.cs">
+      <DependentUpon>PreviousGames.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Account\AddPhoneNumber.aspx.cs">
       <DependentUpon>AddPhoneNumber.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

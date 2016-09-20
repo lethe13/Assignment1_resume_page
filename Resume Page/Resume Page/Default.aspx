@@ -3,37 +3,35 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Robert Riemens</h1>
+        <div class = "bg">
+        &nbsp;<h1>Robert Riemens</h1>
         <p class="lead">Game developers may be lazy but we get the work done until we get bugged out.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
-
+            </div>
     <div class="row">
         <div class="col-md-4">
             <h2>Previous Games</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
+                Some games I have contributed in the past.</p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                <a class="btn btn-default" href="PreviousGames.aspx">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
             <h2>Job History</h2>
             <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                The full list of my job and volunteer history.
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <a class="btn btn-default" href="About.aspx">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
             <h2>Contact Me</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
+                Send me an email if you have any questions or concerns.</p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default"  href="Contact.aspx">Learn more &raquo;</a>
             </p>
         </div>
     </div>
