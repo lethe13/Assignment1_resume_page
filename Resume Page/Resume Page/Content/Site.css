@@ -17,7 +17,10 @@ body {
     background-image: url('../Images/Background.png');
     background-repeat: repeat-y;
 }
+.avatar {
 
+    align-content:flex-end
+}
 
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 

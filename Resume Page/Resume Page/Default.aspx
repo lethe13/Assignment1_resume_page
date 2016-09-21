@@ -3,10 +3,10 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <div class = "bg">
+        <div class = "bg" width: 957px;">
         &nbsp;<h1>Robert Riemens</h1>
         <p class="lead">Game developers may be lazy but we get the work done until we get bugged out.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    
             </div>
     <div class="row">
         <div class="col-md-4">
@@ -28,10 +28,13 @@
         </div>
         <div class="col-md-4">
             <h2>Contact Me</h2>
+            <!-- Code for the image button-->
             <p>
                 Send me an email if you have any questions or concerns.</p>
             <p>
-                <a class="btn btn-default"  href="Contact.aspx">Learn more &raquo;</a>
+                <a href="Contact.aspx">
+<img src="Images/envelope.png" " alt="Email Me" width="42" height="42" border="0">
+                    </a>
             </p>
         </div>
     </div>

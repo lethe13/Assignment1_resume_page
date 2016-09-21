@@ -353,8 +353,6 @@ a:focus {
 
 img {
   vertical-align: middle;
-    height: 309px;
-    width: 963px;
 }
 
 .img-responsive {
@@ -4945,10 +4943,12 @@ a.list-group-item.active > .badge,
 .jumbotron h1 {
   line-height: 1;
   color: inherit;
+    width: 954px;
 }
 
 .jumbotron p {
   line-height: 1.4;
+    width: 395px;
 }
 
 .container .jumbotron {
