@@ -4,7 +4,7 @@
        <div class="jumbotron">
 
             
-    <h2><%: Title %>Contact me</h2>
+    <h2>Contact me</h2>
     <h3>My buisness address</h3>
     <address>
         this.address square<br />
@@ -12,12 +12,11 @@
         <abbr title="Phone">P:</abbr>
         425.555.0100
     </address>
-           <address>
-               &nbsp;</address>
+           
+               <asp:ImageButton ID="ImageButton1" runat="server" Height="50px" ImageUrl="~/Images/1474523152_facebook_icon.png" Width="50px" OnClick="ImageButton1_Click" />
+               <asp:ImageButton ID="ImageButton2" runat="server" Height="50px" ImageUrl="~/Images/1474523160_You_Tube_icon.png" Width="50px" OnClick="ImageButton2_Click" />
+               <asp:ImageButton ID="ImageButton3" runat="server" Height="50px" ImageUrl="~/Images/1474523171_google_plus_icon.png" Width="50px" OnClick="ImageButton3_Click" />
+           
 
-    <address>
-        <strong>Support:</strong> <br />
-        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-    </address>
            </div>
 </asp:Content>

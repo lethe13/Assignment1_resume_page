@@ -13,5 +13,23 @@ namespace Resume_Page
         {
 
         }
+
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+            //my facebook
+            System.Diagnostics.Process.Start("https://www.facebook.com/robert.riemens"); 
+        }
+
+        protected void ImageButton2_Click(object sender, ImageClickEventArgs e)
+        {
+            //my youtube
+            System.Diagnostics.Process.Start("https://www.youtube.com/channel/UCxDEc9gsjdBTeJ8QQ8SqyQw");
+        }
+
+        protected void ImageButton3_Click(object sender, ImageClickEventArgs e)
+        {
+            //my made up google+
+            System.Diagnostics.Process.Start("https://plus.google.com/u/1/103201772947586885210");
+        }
     }
 }
