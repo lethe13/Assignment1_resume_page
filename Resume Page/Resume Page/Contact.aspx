@@ -4,17 +4,19 @@
        <div class="jumbotron">
 
             
-    <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h2><%: Title %>Contact me</h2>
+    <h3>My buisness address</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        this.address square<br />
+        Scarborogh, ON, N7T 7T7<br />
         <abbr title="Phone">P:</abbr>
         425.555.0100
     </address>
+           <address>
+               &nbsp;</address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
+        <strong>Support:</strong> <br />
         <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
     </address>
            </div>
