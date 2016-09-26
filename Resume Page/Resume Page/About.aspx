@@ -10,7 +10,7 @@
        <p>MMY BIOGRAPHY</p>
        <hr />
        <jobs>
-        Wiltons Mini Martbr />
+        Wiltons Mini Martbr <br/>
            2012-2016<br />
           Cashier<br />
           Was the floor supervisor when the boss was out. Cashier, stocker, paying deliveries, and managing empty returns were all daily responsibility
