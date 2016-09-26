@@ -7,10 +7,10 @@
        <asp:Image ID="Image1" runat="server" Height="238px" ImageUrl="~/Images/me.png" Width="243px" />
     <p style="font-style: italic; text-decoration: underline; font-weight: bold">I really hate github</p>
        <hr />
-       <p>MY BIO</p>
+       <p>MMY BIOGRAPHY</p>
        <hr />
        <jobs>
-        Wiltons Mini Mart<br />
+        Wiltons Mini Martbr />
            2012-2016<br />
           Cashier<br />
           Was the floor supervisor when the boss was out. Cashier, stocker, paying deliveries, and managing empty returns were all daily responsibility
