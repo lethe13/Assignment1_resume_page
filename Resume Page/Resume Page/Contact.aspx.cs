@@ -38,8 +38,8 @@ namespace Resume_Page
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-         
-
+            //links to home page
+            Server.Transfer("Default.aspx", true);
         }
 
         protected void TextBox1_TextChanged(object sender, EventArgs e)

@@ -186,6 +186,7 @@
     <Content Include="Images\1474523160_You_Tube_icon.png" />
     <Content Include="Images\1474523171_google_plus_icon.png" />
     <Content Include="Images\Background.png" />
+    <Content Include="Images\HA.PNG" />
     <Content Include="Images\me.png" />
     <Content Include="PreviousGames.aspx" />
     <Content Include="About.aspx" />

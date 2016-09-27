@@ -13,9 +13,11 @@ body {
     
 }
 .bg {
-    color:darkgoldenrod;
-    background-image: url('../Images/Background.png');
+    color:yellow;
+    background-image: url('../Images/HA.PNG');
     background-repeat: repeat-y;
+    height: 218px;
+    width: 1155px;
 }
 .avatar {
 

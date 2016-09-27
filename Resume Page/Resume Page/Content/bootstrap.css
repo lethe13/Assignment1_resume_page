@@ -704,8 +704,7 @@ blockquote:after {
 }
 
 
-address,
-jobs {
+address {
   display: block;
   margin-bottom: 20px;
   font-style: normal;
@@ -4946,11 +4945,13 @@ a.list-group-item.active > .badge,
   line-height: 1;
   color: inherit;
     width: 954px;
+    height: 71px;
 }
 
 .jumbotron p {
   line-height: 1.4;
-    width: 395px;
+    width: 659px;
+    height: 26px;
 }
 
 .container .jumbotron {

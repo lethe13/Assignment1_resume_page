@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <div class = "bg" width: 957px;">
         &nbsp;<h1>Robert Riemens</h1>
-        <p class="lead">Game developers may be lazy but we get the work done until we get bugged out.</p>
+        <p class="lead">My bugs are like cells they dont go away, they just multiply!</p>
     
             </div>
     <div class="row">
