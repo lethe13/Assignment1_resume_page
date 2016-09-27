@@ -9,7 +9,7 @@
     <p style="font-style: italic; text-decoration: underline; font-weight: bold">I really hate github</p>
        <hr />
         <!-- Personal Bio -->
-       <p>MY BIOGRAPHY</p>
+       <p>I am a very shut in type of person who loves to be on his computer and work. I love anything that has to do with eletronics or technology.</p>
        <hr />
         <!-- My work experience -->
        <address>

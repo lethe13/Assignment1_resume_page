@@ -14,10 +14,10 @@ body {
 }
 .bg {
     color:yellow;
-    background-image: url('../Images/HA.PNG');
+    background-image: url('../Images/Background.png');
     background-repeat: repeat-y;
     height: 218px;
-    width: 1155px;
+    width: 962px;
 }
 .avatar {
 
