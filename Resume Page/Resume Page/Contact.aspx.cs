@@ -10,7 +10,7 @@ namespace Resume_Page
     public partial class Contact : Page
     {
         string name;
-        string email;
+        
         string phone;
         string message;
         protected void Page_Load(object sender, EventArgs e)
@@ -38,10 +38,7 @@ namespace Resume_Page
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            name = TextBox1.Text;
-            
-            phone = TextBox3.Text;
-            message = TextBox4.Text;
+         
 
         }
 

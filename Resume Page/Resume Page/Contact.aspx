@@ -10,18 +10,18 @@
         this.address square<br />
         Scarborogh, ON, N7T 7T7<br />
         425.555.0100 <br />
-        <asp:HyperLink ID="HyperLink1" runat="server">robertriemens1@gmail.com</asp:HyperLink>
+        <asp:HyperLink ID="HyperLink1" runat="server">robertriemens3@gmail.com</asp:HyperLink>
     </address>
            <address>
                If you wish for me to contact you please fill out this form.<br />
                Name<br />
-               <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged" ></asp:TextBox><br />
+               <asp:TextBox ID="Namebox" runat="server" OnTextChanged="TextBox1_TextChanged" ></asp:TextBox><br />
                 Email<br />
-               <asp:TextBox ID="TextBox2" runat="server" TextMode="Email"></asp:TextBox><br />
+               <asp:TextBox ID="Emailbox" runat="server" TextMode="Email"></asp:TextBox><br />
                Phone<br />
-               <asp:TextBox ID="TextBox3" runat="server" TextMode="Phone"></asp:TextBox><br />
+               <asp:TextBox ID="Phonebox" runat="server" TextMode="Phone"></asp:TextBox><br />
                Message<br />
-               <asp:TextBox ID="TextBox4" runat="server" Height="70px" Width="330px" TextMode="MultiLine"></asp:TextBox><br />
+               <asp:TextBox ID="Messagebox" runat="server" Height="70px" Width="330px" TextMode="MultiLine"></asp:TextBox><br />
                <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="Button1_Click" />
                <br />
            </address>
@@ -32,5 +32,5 @@
            
 
            </div>
-       </div>
+      
 </asp:Content>
