@@ -12,6 +12,7 @@
         <div class="col-md-4">
             <h2>Previous Games</h2>
             <p>
+                <%-- Link to the previous games page --%>
                 Some games I have contributed in the past.</p>
             <p>
                 <a class="btn btn-default" href="PreviousGames.aspx">Learn more &raquo;</a>
@@ -23,6 +24,7 @@
                 The full list of my job and volunteer history.
             </p>
             <p>
+                <%-- Link to the about page --%>
                 <a class="btn btn-default" href="About.aspx">Learn more &raquo;</a>
             </p>
         </div>
@@ -30,8 +32,10 @@
             <h2>Contact Me</h2>
             <!-- Code for the image button-->
             <p>
+                <%-- Link to the contact page --%>
                 Send me an email if you have any questions or concerns.</p>
             <p>
+                <%-- The button with an icon --%>
                 <a href="Contact.aspx">
 <img src="Images/envelope.png" " alt="Email Me" width="42" height="42" border="0">
                     </a>

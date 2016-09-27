@@ -8,8 +8,10 @@
        <asp:Image ID="Image1" runat="server" Height="238px" ImageUrl="~/Images/me.png" Width="243px" />
     <p style="font-style: italic; text-decoration: underline; font-weight: bold">I really hate github</p>
        <hr />
+        <!-- Personal Bio -->
        <p>MY BIOGRAPHY</p>
        <hr />
+        <!-- My work experience -->
        <address>
         Wiltons Mini Mart <br/>
            2012-2016<br />
